@@ -172,6 +172,18 @@ html, body{
         text-decoration: none;
         color: red;
     }
+    #email{
+        font-weight: 600;
+    }
+    #phone{
+        font-weight: 600;
+    }
+    #linkedin{
+        font-weight: 600;
+    }
+    #address{
+        font-weight: 600;
+    }
     
 }
 @media (max-width:650px) {
